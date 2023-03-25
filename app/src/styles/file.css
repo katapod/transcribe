@@ -1,0 +1,27 @@
+.file-info {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin: 1rem 0;
+  border: 1px solid #eaeaea;
+  border-radius: 0.5rem;
+  padding: 0.1rem 1rem 0.1rem 0.1rem;
+  width: 100%;
+  overflow: hidden;
+}
+
+.file-stats{
+  font-size: 0.7rem;
+  color: #a0a0a0;
+  line-height: 0.3;
+  overflow: none;
+  white-space: nowrap;
+}
+
+.file-name{
+  display: flex;
+  flex-direction: row;
+  font-size: 0.9rem;
+  padding-right: 8px;
+}

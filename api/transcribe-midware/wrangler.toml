@@ -1,0 +1,6 @@
+name = "transcribe-api"
+main = "src/index.ts"
+compatibility_date = "2023-03-22"
+routes = [
+	{ pattern = "transcribeai.app/api/transcribe", zone_id="9f5e4ab993e0c5e629aba28cf1bfc348" },
+]

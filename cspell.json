@@ -1,0 +1,19 @@
+{
+  "version": "0.2",
+  "ignorePaths": [],
+  "dictionaryDefinitions": [],
+  "dictionaries": [],
+  "words": [
+    "Aerilym",
+    "heroicons",
+    "loglevel",
+    "Supa",
+    "supabase",
+    "transcribehistory",
+    "usagebilling",
+    "uuidv",
+    "vars"
+  ],
+  "ignoreWords": [],
+  "import": []
+}
